@@ -5,5 +5,6 @@
 
 ## [Project 2: MasterControl](https://github.com/Zhangjiafeng-GH/MasterControl)
 **Business Problem:** MasterControl’s Mx product underperforms in converting sales leads compared to its Qx line, with limited insight into which opportunities drive success. This project uses data analysis and predictive modeling to identify high-value prospects and key factors influencing deal conversion, helping improve sales prioritization, increase win rates, and shorten sales cycles.
+![ ](/Images/MasterControl-Newsroom-Header.svg)
 
 
